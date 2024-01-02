@@ -1,5 +1,12 @@
 # CATMicrobiome
 
+### Author: Yushu Shi
+
+- **Reference**: Shi Y, Zhang L, Do K, Jenq RR, Peterson CB. (2024+) CAT: a conditional association test for microbiome data using a leave-out approach. *arXiv*. [https://doi.org/10.48550/arXiv.2309.08109](https://doi.org/10.48550/arXiv.2309.08109).
+
+## General info
+CATMicrobiome package performs conditional association test for the list of the taxa provided. The main function of the package is CAT.
+
 ## General info
 CATMicrobiome package performs conditional association test for the list of the taxa provided. The main function of the package is CAT.
 
